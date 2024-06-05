@@ -1,0 +1,19 @@
+p{
+    font-family: "Permanent Marker";
+    color: white;
+}
+
+div{
+    width: max-content;
+    height: max-content;
+    margin-top: 18%;
+    border-radius: 8px;
+    background-color: rgba(0,0,0,0.8);
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+h1 {
+    font-family: "Permanent Marker";
+    color: white;
+}
